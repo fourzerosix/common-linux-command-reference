@@ -1,4 +1,4 @@
-# Cluster Common Command Reference
+# Commonly used Commands for Linux/Unix-Based Operations 
 
 ## Summary
 This document serves as a quick-reference guide for essential Linux command-line operations relevant to users working on cluster systems. It includes frequently used file system operations, process management, job scheduling (SLURM), SSH, and session management tools. This document is intended for our cluster users who need a quick lookup for common Linux tasks and SLURM job scheduling commands.
